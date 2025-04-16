@@ -12,3 +12,6 @@ Features:
 Windows tab that allows you to check out basic windows and other various windows.
 
 Requires Microsoft .NET Framework 4.7 to function (!!!Only install if the application does not launch on your system!!!): https://dotnet.microsoft.com/en-us/download/dotnet-framework/net47
+
+
+![preview](https://github.com/user-attachments/assets/40c6ced9-7fdf-4a8a-a11f-5892a380ead3)
